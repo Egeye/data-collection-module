@@ -2,17 +2,374 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04076ba1-eddd-42af-9648-4f3c44cc8e3c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/WEB-INF/classes/com/demo/JdbcDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/WEB-INF/classes/com/demo/TestDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/WEB-INF/classes/com/demo/common/CompactFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/WEB-INF/classes/com/demo/common/FileMonitorTest$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/WEB-INF/classes/com/demo/common/FileMonitorTest.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/WEB-INF/lib/mysql-connector-java-5.1.20-bin.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/dist/fonts/glyphicons-halflings-regulard41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/WEB-INF/classes/com/demo/JdbcDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/WEB-INF/classes/com/demo/TestDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/WEB-INF/classes/com/demo/common/CompactFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/WEB-INF/classes/com/demo/common/FileMonitorTest$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/WEB-INF/classes/com/demo/common/FileMonitorTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.20-bin.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/dist/fonts/glyphicons-halflings-regulard41d.eot" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/2b51c4d6-9f85-49eb-8538-8934ef666124.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/90f5cf7c-8560-4522-84e0-5f230a49966b.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_20_bin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/src/com/demo/JdbcDemo.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/src/com/demo/TestDemo.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/src/com/demo/common/CompactFile.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/src/com/demo/common/FileMonitorTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/WEB-INF/config.properties" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jf_jt/web/WEB-INF/classes/com/demo/DemoConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/WEB-INF/classes/com/demo/DemoConfig.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/app/scripts/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/app/views/dataFile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/bootstrap-table-locale-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/bootstrap-table-locale-all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/bootstrap-table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/bootstrap-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/bootstrap-table.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/bootstrap-table.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/accent-neutralise/bootstrap-table-accent-neutralise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/accent-neutralise/bootstrap-table-accent-neutralise.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/angular/bootstrap-table-angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/angular/bootstrap-table-angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/auto-refresh/bootstrap-table-auto-refresh.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/auto-refresh/bootstrap-table-auto-refresh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/auto-refresh/bootstrap-table-auto-refresh.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/click-edit-row/bootstrap-table-click-edit-row.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/click-edit-row/bootstrap-table-click-edit-row.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/click-edit-row/bootstrap-table-click-edit-row.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/cookie/bootstrap-table-cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/cookie/bootstrap-table-cookie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/copy-rows/bootstrap-table-copy-rows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/copy-rows/bootstrap-table-copy-rows.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/editable/bootstrap-table-editable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/editable/bootstrap-table-editable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/export/bootstrap-table-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/export/bootstrap-table-export.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/filter-control/bootstrap-table-filter-control.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/filter-control/bootstrap-table-filter-control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/filter-control/bootstrap-table-filter-control.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/filter/bootstrap-table-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/filter/bootstrap-table-filter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/flat-json/bootstrap-table-flat-json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/flat-json/bootstrap-table-flat-json.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/group-by-v2/bootstrap-table-group-by.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/group-by-v2/bootstrap-table-group-by.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/group-by-v2/bootstrap-table-group-by.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/group-by/bootstrap-table-group-by.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/group-by/bootstrap-table-group-by.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/group-by/bootstrap-table-group-by.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/i18n-enhance/bootstrap-table-i18n-enhance.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/i18n-enhance/bootstrap-table-i18n-enhance.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/key-events/bootstrap-table-key-events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/key-events/bootstrap-table-key-events.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/mobile/bootstrap-table-mobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/mobile/bootstrap-table-mobile.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/multi-column-toggle/bootstrap-table-multi-toggle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/multi-column-toggle/bootstrap-table-multi-toggle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/multiple-search/bootstrap-table-multiple-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/multiple-search/bootstrap-table-multiple-search.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/multiple-sort/bootstrap-table-multiple-sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/multiple-sort/bootstrap-table-multiple-sort.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/natural-sorting/bootstrap-table-natural-sorting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/natural-sorting/bootstrap-table-natural-sorting.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/print/bootstrap-table-print.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/print/bootstrap-table-print.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/reorder-columns/bootstrap-table-reorder-columns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/reorder-columns/bootstrap-table-reorder-columns.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/reorder-rows/bootstrap-table-reorder-rows.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/reorder-rows/bootstrap-table-reorder-rows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/reorder-rows/bootstrap-table-reorder-rows.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/resizable/bootstrap-table-resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/resizable/bootstrap-table-resizable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/select2-filter/bootstrap-table-select2-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/select2-filter/bootstrap-table-select2-filter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/sticky-header/bootstrap-table-sticky-header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/sticky-header/bootstrap-table-sticky-header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/sticky-header/bootstrap-table-sticky-header.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/toolbar/bootstrap-table-toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/toolbar/bootstrap-table-toolbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/tree-column/bootstrap-table-tree-column.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/tree-column/bootstrap-table-tree-column.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/extensions/tree-column/bootstrap-table-tree-column.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-af-ZA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-af-ZA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ar-SA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ar-SA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ca-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ca-ES.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-cs-CZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-cs-CZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-da-DK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-da-DK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-de-DE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-de-DE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-el-GR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-el-GR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-en-US.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-en-US.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-AR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-AR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-CL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-CL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-CR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-CR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-ES.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-MX.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-MX.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-NI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-NI.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-SP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-SP.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-et-EE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-et-EE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-fa-IR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-fa-IR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-fr-BE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-fr-BE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-fr-FR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-fr-FR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-he-IL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-he-IL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-hr-HR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-hr-HR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-hu-HU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-hu-HU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-id-ID.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-id-ID.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-it-IT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-it-IT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ja-JP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ja-JP.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ka-GE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ka-GE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ko-KR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ko-KR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ms-MY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ms-MY.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-nb-NO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-nb-NO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-nl-NL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-nl-NL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-pl-PL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-pl-PL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-pt-BR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-pt-PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-pt-PT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ro-RO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ro-RO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ru-RU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ru-RU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-sk-SK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-sk-SK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-sv-SE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-sv-SE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-th-TH.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-th-TH.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-tr-TR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-tr-TR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-uk-UA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-uk-UA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ur-PK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-ur-PK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-uz-Latn-UZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-uz-Latn-UZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-vi-VN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-vi-VN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-zh-CN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/assets/bootstrap-table-develop/locale/bootstrap-table-zh-TW.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jf_jt/web/src/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/app/scripts/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/app/styles/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/app/views/dataFile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/bootstrap-table-locale-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/bootstrap-table-locale-all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/bootstrap-table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/bootstrap-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/bootstrap-table.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/bootstrap-table.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/accent-neutralise/bootstrap-table-accent-neutralise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/accent-neutralise/bootstrap-table-accent-neutralise.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/angular/bootstrap-table-angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/angular/bootstrap-table-angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/auto-refresh/bootstrap-table-auto-refresh.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/auto-refresh/bootstrap-table-auto-refresh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/auto-refresh/bootstrap-table-auto-refresh.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/click-edit-row/bootstrap-table-click-edit-row.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/click-edit-row/bootstrap-table-click-edit-row.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/click-edit-row/bootstrap-table-click-edit-row.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/cookie/bootstrap-table-cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/cookie/bootstrap-table-cookie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/copy-rows/bootstrap-table-copy-rows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/copy-rows/bootstrap-table-copy-rows.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/editable/bootstrap-table-editable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/editable/bootstrap-table-editable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/export/bootstrap-table-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/export/bootstrap-table-export.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/filter-control/bootstrap-table-filter-control.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/filter-control/bootstrap-table-filter-control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/filter-control/bootstrap-table-filter-control.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/filter/bootstrap-table-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/filter/bootstrap-table-filter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/flat-json/bootstrap-table-flat-json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/flat-json/bootstrap-table-flat-json.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/group-by-v2/bootstrap-table-group-by.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/group-by-v2/bootstrap-table-group-by.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/group-by-v2/bootstrap-table-group-by.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/group-by/bootstrap-table-group-by.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/group-by/bootstrap-table-group-by.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/group-by/bootstrap-table-group-by.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/i18n-enhance/bootstrap-table-i18n-enhance.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/i18n-enhance/bootstrap-table-i18n-enhance.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/key-events/bootstrap-table-key-events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/key-events/bootstrap-table-key-events.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/mobile/bootstrap-table-mobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/mobile/bootstrap-table-mobile.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/multi-column-toggle/bootstrap-table-multi-toggle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/multi-column-toggle/bootstrap-table-multi-toggle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/multiple-search/bootstrap-table-multiple-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/multiple-search/bootstrap-table-multiple-search.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/multiple-sort/bootstrap-table-multiple-sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/multiple-sort/bootstrap-table-multiple-sort.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/natural-sorting/bootstrap-table-natural-sorting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/natural-sorting/bootstrap-table-natural-sorting.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/print/bootstrap-table-print.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/print/bootstrap-table-print.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/reorder-columns/bootstrap-table-reorder-columns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/reorder-columns/bootstrap-table-reorder-columns.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/reorder-rows/bootstrap-table-reorder-rows.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/reorder-rows/bootstrap-table-reorder-rows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/reorder-rows/bootstrap-table-reorder-rows.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/resizable/bootstrap-table-resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/resizable/bootstrap-table-resizable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/select2-filter/bootstrap-table-select2-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/select2-filter/bootstrap-table-select2-filter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/sticky-header/bootstrap-table-sticky-header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/sticky-header/bootstrap-table-sticky-header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/sticky-header/bootstrap-table-sticky-header.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/toolbar/bootstrap-table-toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/toolbar/bootstrap-table-toolbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/tree-column/bootstrap-table-tree-column.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/tree-column/bootstrap-table-tree-column.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/extensions/tree-column/bootstrap-table-tree-column.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-af-ZA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-af-ZA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ar-SA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ar-SA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ca-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ca-ES.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-cs-CZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-cs-CZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-da-DK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-da-DK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-de-DE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-de-DE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-el-GR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-el-GR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-en-US.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-en-US.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-AR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-AR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-CL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-CL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-CR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-CR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-ES.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-MX.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-MX.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-NI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-NI.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-SP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-es-SP.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-et-EE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-et-EE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-fa-IR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-fa-IR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-fr-BE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-fr-BE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-fr-FR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-fr-FR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-he-IL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-he-IL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-hr-HR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-hr-HR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-hu-HU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-hu-HU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-id-ID.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-id-ID.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-it-IT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-it-IT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ja-JP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ja-JP.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ka-GE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ka-GE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ko-KR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ko-KR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ms-MY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ms-MY.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-nb-NO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-nb-NO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-nl-NL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-nl-NL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-pl-PL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-pl-PL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-pt-BR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-pt-PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-pt-PT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ro-RO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ro-RO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ru-RU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ru-RU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-sk-SK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-sk-SK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-sv-SE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-sv-SE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-th-TH.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-th-TH.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-tr-TR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-tr-TR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-uk-UA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-uk-UA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ur-PK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-ur-PK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-uz-Latn-UZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-uz-Latn-UZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-vi-VN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-vi-VN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-zh-CN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/assets/bootstrap-table-develop/locale/bootstrap-table-zh-TW.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/dist/fonts/glyphicons-halflings-regular.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jf_jt/web/WEB-INF/classes/com/demo/controller/IndexController.class" afterPath="$PROJECT_DIR$/jf_jt/web/WEB-INF/classes/com/demo/controller/IndexController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/jf_jt_war/jf_jt_war.war" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war/jf_jt_war.war" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/WEB-INF/classes/com/demo/controller/IndexController.class" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/WEB-INF/classes/com/demo/controller/IndexController.class" />
@@ -25,6 +382,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/app/views/index.html" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/src/app/views/index.html" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/jf_jt/src/com/demo/DemoConfig.java" afterPath="$PROJECT_DIR$/jf_jt/src/com/demo/common/DemoConfig.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/jf_jt/web/WEB-INF/classes/com/demo/DemoConfig.class" afterPath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/WEB-INF/classes/com/demo/common/DemoConfig.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/out/artifacts/jf_jt_war_exploded/WEB-INF/classes/com/demo/DemoConfig.class" afterPath="$PROJECT_DIR$/jf_jt/web/WEB-INF/classes/com/demo/common/DemoConfig.class" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,8 +425,8 @@
       <file leaf-file-name="config.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jf_jt/web/WEB-INF/config.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="44">
+              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -103,8 +462,8 @@
       <file leaf-file-name="JdbcDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jf_jt/src/com/demo/JdbcDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="118">
+              <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -220,6 +579,7 @@
         <option value="$PROJECT_DIR$/jf_jt/src/com/demo/common/FileMonitorTest.java" />
         <option value="$PROJECT_DIR$/jf_jt/src/com/demo/JdbcDemo.java" />
         <option value="$PROJECT_DIR$/jf_jt/src/com/demo/common/DemoConfig.java" />
+        <option value="$PROJECT_DIR$/jf_jt/web/WEB-INF/config.properties" />
       </list>
     </option>
   </component>
@@ -457,12 +817,12 @@
       <option name="presentableId" value="Default" />
       <updated>1502764546085</updated>
       <workItem from="1502764548617" duration="4163000" />
-      <workItem from="1502772475328" duration="34077000" />
+      <workItem from="1502772475328" duration="34204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38240000" />
+    <option name="totallyTimeSpent" value="38367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -793,19 +1153,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jf_jt/src/com/demo/common/CompactFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#CompactFile#0;class#CompactFile#0" expanded="false" />
-            <element signature="method#zipFile#0;class#CompactFile#0" expanded="false" />
-            <element signature="method#zipDirectory#0;class#CompactFile#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jf_jt/src/com/demo/common/FileMonitorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -840,16 +1187,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jf_jt/src/com/demo/JdbcDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jf_jt/src/com/demo/common/DemoConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -860,10 +1197,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jf_jt/src/com/demo/common/CompactFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#CompactFile#0;class#CompactFile#0" expanded="false" />
+            <element signature="method#zipFile#0;class#CompactFile#0" expanded="false" />
+            <element signature="method#zipDirectory#0;class#CompactFile#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jf_jt/src/com/demo/JdbcDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jf_jt/web/WEB-INF/config.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="44">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
           <folding />
         </state>
       </provider>

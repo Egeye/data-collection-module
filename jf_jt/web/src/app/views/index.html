@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!--<html xmlns="http://www.w3.org/1999/xhtml">-->
 
 <head>
     <meta charset="utf-8"/>
@@ -7,59 +7,69 @@
     <title>前置机Agent</title>
 
     <link href="/src/dist/css/bootstrap.css" rel="stylesheet"/>
+    <link href="/src/assets/bootstrap-table-develop/bootstrap-table.css" rel="stylesheet" />
     <!-- Custom Styles-->
     <link href="/src/dist/css/custom-styles.css" rel="stylesheet"/>
+    <link href="/src/app/styles/index.css" rel="stylesheet"/>
 
     <!-- JS Scripts-->
     <!-- jQuery Js -->
     <script src="/src/dist/js/jquery-1.10.2.js"></script>
     <!-- Bootstrap Js -->
     <script src="/src/dist/js/bootstrap.min.js"></script>
+    <script src="/src/assets/bootstrap-table-develop/bootstrap-table.js"></script>
+    <script src="/src/assets/bootstrap-table-develop/locale/bootstrap-table-zh-CN.js"></script>
 
-    <!-- Metis Menu Js -->
-    <script src="/src/dist/js/jquery.metisMenu.js"></script>
-
-    <script src="/src/dist/js/easypiechart.js"></script>
-    <script src="/src/dist/js/easypiechart-data.js"></script>
+    <script src="/src/app/scripts/index.js"></script>
 </head>
 
 <body>
-<div id="wrapper">
-    <nav class="navbar navbar-default top-navbar">
+<div id="wrapper" class="v-body">
+    <nav class="navbar top-header">
         <div class="navbar-header">
-
-            <a class="navbar-brand" href="index.html"><strong><i class="icon fa fa-plane"></i> 前置机Agent</strong></a>
-
-            <div id="sideNav" href="">
-                <i class="fa fa-bars icon"></i>
-            </div>
+            <strong class="top-header-font">前置机Agent</strong>
         </div>
 
     </nav>
 
 
-    <nav class="navbar-default navbar-side">
-        <div class="sidebar-collapse">
-            <ul class="nav" id="main-menu">
+    <div class="col-md-2">
+        <div class="panel-group table-responsive" role="tablist">
+            <!--<div class="">导航</div>-->
+            <div class="panel panel-primary leftMenu">
 
-                <li>
-                    <a href=""><i class="fa fa-sitemap"></i> Charts<span class="fa arrow"></span></a>
+                <!-- 利用data-target指定要折叠的分组列表 -->
+                <div class="panel-heading" id="collapseListGroupHeading1" data-toggle="collapse" data-target="#collapseListGroup1" role="tab" >
+                    <h4 class="panel-title">
+                        采集管理
+                        <span class="glyphicon glyphicon-chevron-up right"></span>
+                    </h4>
+                </div>
+                <!-- .panel-collapse和.collapse标明折叠元素 .in表示要显示出来 -->
+                <div id="collapseListGroup1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="collapseListGroupHeading1">
+                    <ul class="list-group">
+                        <li class="list-group-item">
+                            <!-- 利用data-target指定URL -->
+                            <button class="menu-item-left" data-target="test2.html">
+                                <span class="glyphicon glyphicon-triangle-right"></span>数据文件
+                            </button>
+                        </li>
+                        <li class="list-group-item">
+                            <button class="menu-item-left">
+                                <span class="glyphicon glyphicon-triangle-right"></span>告警信息
+                            </button>
+                        </li>
 
-                </li>
-            </ul>
+                    </ul>
+                </div>
+            </div><!--panel end-->
+
         </div>
-
-    </nav>
-
-    <div id="page-wrapper">
-        <div class="header">
-            <h1 class="page-header">数据文件</h1>
-
-        </div>
-        <div id="page-inner">
+    </div>
 
 
-        </div>
+    <div class="v-content">
+        <table id="tb_departments"></table>
     </div>
 </div>
 
